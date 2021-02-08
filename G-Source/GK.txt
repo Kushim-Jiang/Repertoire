@@ -1,4 +1,3 @@
-num	glyph	GK-source	description
 1	乫	GK-6779	GB/T 12052—1989，71—89
 2	艍	GK-677A	GB/T 12052—1989，71—90
 3	巪	GK-677B	GB/T 12052—1989，71—91
